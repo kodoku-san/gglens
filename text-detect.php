@@ -1,6 +1,6 @@
 <?php
 
-//Đăng ký để theo dõi mình tại: https://www.youtube.com/@gyos169
+//Đăng ký để theo dõi mình tại: https://www.youtube.com/@kodoku169
 
 $filepath = '6.jpg';
 
