@@ -2,7 +2,7 @@
 
 //Đăng ký để theo dõi mình tại: https://www.youtube.com/@kodoku169
 
-$filepath = '6.jpg';
+$filepath = '1.png';
 
 $timeStamp = round(microtime(true) * 1000);
 
